@@ -41,6 +41,8 @@
   },
   "blade.format.enable": true,
   "bladeFormatter.format.indentSize": 2,
+  "customizeUI.font.monospace": "PlemolJP Console NF",
+  "customizeUI.font.regular": "PlemolJP Console NF",
   "editor.accessibilitySupport": "off",
   "editor.bracketPairColorization.enabled": true,
   "editor.fontFamily": "PlemolJP Console NF",
